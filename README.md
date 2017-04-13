@@ -5,3 +5,4 @@ Carto Projects Requirements - for easily getting started with a [Carto](https://
     source env/bin/activate
     wget https://raw.githubusercontent.com/nygeog/cartoprojectsrequirements/master/requirements.txt
     pip install -r requirements.txt
+    jupyter nbextension enable --py --sys-prefix widgetsnbextension
