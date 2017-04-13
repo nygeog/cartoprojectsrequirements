@@ -1,5 +1,7 @@
 # Carto Projects Requirements
 Carto Projects Requirements - for easily getting started with a [Carto](https://carto.com/) project using Python. 
 
-
-```pip install -r requirements.txt```
+    virtualenv env
+    source env/bin/activate
+    wget https://raw.githubusercontent.com/nygeog/cartoprojectsrequirements/master/requirements.txt
+    pip install -r requirements.txt
