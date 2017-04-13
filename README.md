@@ -10,3 +10,7 @@ Carto Projects Requirements - for easily getting started with a [Carto](https://
     open .gitignore
     touch _settings.py
     open _setttings.py
+    mkdir data
+    mkdir data/input
+    mkdir data/processing
+    mkdir data/output
