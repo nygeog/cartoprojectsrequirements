@@ -8,3 +8,5 @@ requests
 jupyter
 cartoframes
 ipywidgets
+-e git+git://github.com/CartoDB/cartodb-python.git#egg=cartodb
+requests_oauthlib
