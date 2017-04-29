@@ -9,7 +9,7 @@ Carto Projects Requirements - for easily getting started with a [Carto](https://
     jupyter nbextension enable --py --sys-prefix widgetsnbextension
     open .gitignore
     touch _settings.py
-    open _setttings.py
+    open _settings.py
     mkdir data
     mkdir data/input
     mkdir data/processing
